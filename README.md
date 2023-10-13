@@ -12,7 +12,6 @@
 ![ESP32_TFT-Display_MP3](https://github.com/fatjrizikri/ESP32-TFT_Display-MP3-Pictures/assets/66940604/c0ed8852-61f3-4ab6-9d25-6899aa84fa14)
 
 
-
 ### Information
 I made this device as a gift to someone. The features of this device are as follows:
 - displays the initial process in the turned on device
