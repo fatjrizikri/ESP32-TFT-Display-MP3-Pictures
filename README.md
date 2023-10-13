@@ -6,6 +6,11 @@
 - I2S MAX98357A
 - SD Card
 - 4 push buttons
+- Speaker
+
+### Picture Device
+![WhatsApp Image 2023-10-13 at 23 23 03](https://github.com/fatjrizikri/ESP32-TFT_Display-MP3-Pictures/assets/66940604/bbc032ce-61e4-4535-9742-6c39a57daefb)
+
 
 ### Information
 I made this device as a gift to someone. The features of this device are as follows:
