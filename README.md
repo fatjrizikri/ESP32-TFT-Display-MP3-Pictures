@@ -9,7 +9,8 @@
 - Speaker
 
 ### Picture Device
-![WhatsApp Image 2023-10-13 at 23 23 03](https://github.com/fatjrizikri/ESP32-TFT_Display-MP3-Pictures/assets/66940604/bbc032ce-61e4-4535-9742-6c39a57daefb)
+![ESP32_TFT-Display_MP3](https://github.com/fatjrizikri/ESP32-TFT_Display-MP3-Pictures/assets/66940604/c0ed8852-61f3-4ab6-9d25-6899aa84fa14)
+
 
 
 ### Information
